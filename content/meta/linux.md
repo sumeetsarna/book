@@ -13,7 +13,7 @@ Optional
 
 2. virtualbox
 
-Steps to Install Virtualbox and IE VMs :
+##Steps to Install Virtualbox and IE VMs :
 
 
 A) For Installing virtualbox refer http://www.linuxtechi.com/install-virtualbox-in-ubuntu-14-10/  
@@ -23,7 +23,7 @@ B) Get  IE VMs from https://www.modern.ie/en-us/virtualization-tools#downloads
 
 C) Extract the zip file 
 
-D)  Start VirtualBox . From the main menu , click on File  > Import Appliance  and  import  the relevant .ova file
+D)  Start VirtualBox . From the main menu , click on **File  > Import Appliance**  and  import  the relevant .ova file
 
 ![Import](http://git.rtcamp.com/uploads/rtmedia/rtmedia-social-sync/62e2e02c83/Import.png)
 
