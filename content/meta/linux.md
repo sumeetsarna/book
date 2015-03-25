@@ -21,6 +21,8 @@ or https://www.virtualbox.org/wiki/Downloads
 
 B) Get  IE VMs from https://www.modern.ie/en-us/virtualization-tools#downloads
 
+#####Get  IE 9 for Win 7 from  cloud.rtcamp.com (the OVA file under IE 9 Win 7 folder) 
+
 C) Extract the zip file 
 
 D)  Start VirtualBox . From the main menu , click on **File  > Import Appliance**  and  import  the relevant .ova file
