@@ -1,21 +1,19 @@
 # Linux
 
 Tools
-3. atom
-4. netbeans
-5. npm
-6. nodejs
-7. filezilla (ftp) or Nautilus - is there any better alternative?
+1. atom
+2. netbeans
+3. npm
+4. nodejs
+5. filezilla (ftp) or Nautilus - is there any better alternative?
 
 Optional
 
-7. vagrant
-8. virtualbox
+1. vagrant
 
+2. virtualbox
 
-8 . Virtualbox
-
-                                          Install Virtualbox and IE VMs
+Steps to Install Virtualbox and IE VMs :
 
 
 A) For Installing virtualbox refer http://www.linuxtechi.com/install-virtualbox-in-ubuntu-14-10/  
