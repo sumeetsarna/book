@@ -27,8 +27,9 @@ D)  Start VirtualBox . From the main menu , click on File  > Import Appliance  a
 
 ![Import](http://git.rtcamp.com/uploads/rtmedia/rtmedia-social-sync/62e2e02c83/Import.png)
 
-Select the OVA file, click Continue and import the VM. It will shortly appear in the list in the left-hand pane. Click once to select it, then hit Start to launch the Virtual Machine. After a few seconds, you’ll be booted into Windows and can run Internet Explorer.
+Select the OVA file, click **Next** and import the VM. It will shortly appear in the list in the left-hand pane. Click once to select it, then hit Start to launch the Virtual Machine. After a few seconds, you’ll be booted into Windows and can run Internet Explorer.
 Refer : http://www.sitepoint.com/virtual-machine-browser-testing-modern-ie/ for more details
 
+It looks similar to the screenshot below
 
-
+![ie](http://git.rtcamp.com/uploads/rtmedia/rtmedia-social-sync/ce509a53fd/ie.png)
